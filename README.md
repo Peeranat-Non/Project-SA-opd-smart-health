@@ -14,9 +14,9 @@
 
 | รายการ | ลิงก์ |
 |---|---|
-| 📄 รายงานฉบับเต็ม (PDF, 173 หน้า) | [docs/Project_SA_Report.pdf](docs/Project_SA_Report.pdf) |
-| 🎨 งานออกแบบ UI (Figma) | [เปิดดูใน Figma](https://www.figma.com/design/ใส่ลิงก์ของคุณ) |
-| ▶️ Prototype (Figma) | [ทดลองใช้งาน Prototype](https://www.figma.com/proto/ใส่ลิงก์ของคุณ) |
+| 📄 รายงานฉบับเต็ม (PDF, 173 หน้า) | [Project_SA_Report.pdf](Project_SA_Report.pdf) |
+| 🎨 งานออกแบบ UI (Figma) | [เปิดดูใน Figma](https://www.figma.com/design/BshFbBmVYwlDTwQf0Lg95Y/SA?node-id=9-22&t=7eSySLJzV1WInhsU-1) |
+| ▶️ Prototype (Figma) | [ทดลองใช้งาน Prototype](https://www.figma.com/proto/BshFbBmVYwlDTwQf0Lg95Y/SA?node-id=490-1477&p=f&t=7eSySLJzV1WInhsU-0&scaling=min-zoom&content-scaling=fixed&page-id=9%3A22&starting-point-node-id=490%3A1477&show-proto-sidebar=1) |
 
 ---
 
@@ -102,26 +102,6 @@
 
 ---
 
-## 📁 โครงสร้างของ Repository
-
-```
-.
-├── README.md
-├── docs/
-│   ├── Project_SA_Report.pdf      # รายงานฉบับเต็ม
-│   └── images/                    # รูปที่ใช้ใน README
-├── diagrams/                      # (ไม่บังคับ) ภาพ diagram ความละเอียดสูง
-│   ├── use-case.png
-│   ├── class-diagram.png
-│   ├── dfd-level-0.png
-│   ├── er-diagram.png
-│   └── site-map.png
-└── design/                        # (ไม่บังคับ) ไฟล์ต้นฉบับ
-    └── project-sa.fig
-```
-
----
-
 ## 👥 คณะผู้จัดทำ
 
 | ชื่อ | รหัสนักศึกษา |
@@ -131,15 +111,3 @@
 | นายภัคพล สิงห์เส | 67-040226-1050-9 |
 | นางสาวจุฑามาศ พรหมชนะ | 67-040226-1248-0 |
 | นายอดิศร สังวาลย์ | 67-040226-1058-4 |
-
----
-
-## ⚠️ หมายเหตุ
-
-- โครงงานนี้เป็นงานด้าน **การวิเคราะห์และออกแบบระบบ** เพื่อการศึกษา ยังไม่ได้พัฒนาเป็นซอฟต์แวร์ที่ใช้งานจริง
-- ข้อมูลในหน้าจอตัวอย่างและแบบฟอร์มเป็นข้อมูลสมมติ ไม่มีข้อมูลผู้ป่วยจริง
-- รายงานนี้จัดทำเพื่อประกอบการเรียนรายวิชา สงวนสิทธิ์การนำไปใช้เชิงพาณิชย์
-
-## 📄 License
-
-เผยแพร่เพื่อการศึกษา (แนะนำเลือก [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.th) ถ้าต้องการให้คนอื่นอ้างอิงได้แต่ห้ามใช้เชิงพาณิชย์)
