@@ -12,8 +12,8 @@
 
 | รายการ | ลิงก์ |
 |---|---|
-| 📄 รายงานฉบับเต็ม (PDF, 173 หน้า) | [Project_SA_Report.pdf](Project_SA_Report.pdf) |
-| 🎨 งานออกแบบ UI (Figma) | [เปิดดูใน Figma](https://www.figma.com/design/BshFbBmVYwlDTwQf0Lg95Y/SA?node-id=9-22&t=7eSySLJzV1WInhsU-1) |
+| 📄 รายงานฉบับเต็ม PDF | [Project_SA_Report.pdf](Project_SA_Report.pdf) |
+| 🎨 งานออกแบบ User Interface (Figma) | [เปิดดูใน Figma](https://www.figma.com/design/BshFbBmVYwlDTwQf0Lg95Y/SA?node-id=9-22&t=7eSySLJzV1WInhsU-1) |
 | ▶️ Prototype (Figma) | [ทดลองใช้งาน Prototype](https://www.figma.com/proto/BshFbBmVYwlDTwQf0Lg95Y/SA?node-id=490-1477&p=f&t=7eSySLJzV1WInhsU-0&scaling=min-zoom&content-scaling=fixed&page-id=9%3A22&starting-point-node-id=490%3A1477&show-proto-sidebar=1) |
 
 ---
