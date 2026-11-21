@@ -88,9 +88,12 @@
 
 <!-- ใส่รูปที่ export จาก Figma / รายงาน แล้วแก้ชื่อไฟล์ให้ตรง -->
 
-| Use Case Diagram | ER Diagram |
-![Fishbone Diagram](docs/images/fishbone-diagram.png)
-![System Diagram](docs/images/system-diagram.png) |
+| Fishbone Diagram | System Diagram |
+|---|---|
+| ![Fishbone Diagram](docs/images/fishbone-diagram.png) | ![System Diagram](docs/images/system-diagram.png) |
+
+| Use Case | DFD level 0 |
+|---|---|
 | ![Use Case](docs/images/use-case.png) | ![DFD level 0](docs/images/dfd-level-0.png) |
 
 | หน้า Login | หน้า OPD Card |
