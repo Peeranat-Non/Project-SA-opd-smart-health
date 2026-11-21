@@ -96,13 +96,18 @@
 |---|---|
 | ![Use Case](docs/images/use-case.png) | ![DFD level 0](docs/images/dfd-level-0.png) |
 
-| หน้า Login | หน้า OPD Card |
+| Activity Diagram | Sequence Diagram |
 |---|---|
-| ![Login](docs/images/ui-login.png) | ![OPD Card](docs/images/ui-opd-card.png) |
+| ![Activity Diagram](docs/images/activity-diagram.png) | ![Sequence Diagram](docs/images/sequence-diagram.png) |
 
-| Dashboard ผู้บริหาร | หน้าสั่งตรวจเวชศาสตร์นิวเคลียร์ |
+
+| หน้า Login | หน้า HomC |
 |---|---|
-| ![Dashboard](docs/images/ui-dashboard.png) | ![NM Order](docs/images/ui-nm-order.png) |
+| ![Login](docs/images/login.png) | ![OPD Card](docs/images/homC.png) |
+
+| หน้า OPD Card | หน้า OPD Card เปรียบเทียบ |
+|---|---|
+| ![Dashboard](docs/images/opd-card.png) | ![NM Order](docs/images/opd-card-2.png) |
 
 ---
 
