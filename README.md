@@ -103,11 +103,11 @@
 
 | หน้า Login | หน้า HomC |
 |---|---|
-| ![Login](docs/images/login.png) | ![OPD Card](docs/images/homC.png) |
+| ![Login](docs/images/login.jpg) | ![OPD Card](docs/images/homC.jpg) |
 
 | หน้า OPD Card | หน้า OPD Card เปรียบเทียบ |
 |---|---|
-| ![Dashboard](docs/images/opd-card.png) | ![NM Order](docs/images/opd-card-2.png) |
+| ![Dashboard](docs/images/opd-card.jpg) | ![NM Order](docs/images/opd-card-2.jpg) |
 
 ---
 
