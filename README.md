@@ -64,27 +64,7 @@
 
 ---
 
-## 📚 เนื้อหาในรายงาน
-
-| บทที่ | หัวข้อ | หน้า |
-|---|---|---|
-| 1 | บทนำ (ความเป็นมา, วัตถุประสงค์) | 1–2 |
-| 2 | วิเคราะห์ปัญหา: Fishbone Diagram, SWOT Analysis | 3–4 |
-| 3 | System Request และ System Scope Document | 5–9 |
-| 4 | System Diagram | 10 |
-| 5 | Use Case Diagram | 11 |
-| 6 | Class Diagram | 12–13 |
-| 7 | DFD Level 0/1/2, Activity Diagram, Sequence Diagram, Requirement Specification, Non-functional Requirement | 14–106 |
-| 8 | User Interface (33 หน้าจอ) | 107–125 |
-| 9 | Report (แบบฟอร์มใบส่งตรวจต่าง ๆ) | 126–133 |
-| 10 | Site Map | 134 |
-| 11 | ER Diagram และ Relational Diagram | 135–136 |
-| 12 | Data Schema, Normalization, Data Dictionary | 137–166 |
-| – | บรรณานุกรม | 167 |
-
----
-
-## 🖼️ ตัวอย่างงานออกแบบ
+## ตัวอย่างงานออกแบบ Diagram
 
 <!-- ใส่รูปที่ export จาก Figma / รายงาน แล้วแก้ชื่อไฟล์ให้ตรง -->
 
@@ -100,6 +80,7 @@
 |---|---|
 | ![Activity Diagram](docs/images/activity-diagram.png) | ![Sequence Diagram](docs/images/sequence-diagram.png) |
 
+## ตัวอย่างงานออกแบบ User Interface
 
 | หน้า Login | หน้า HomC |
 |---|---|
